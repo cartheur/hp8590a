@@ -28,13 +28,16 @@ harmonics, and other RF signals.
   L-band range.
 - **Option H51 — Close-Field EMC Analyzer.** Adds EMC-oriented functions for
   locating electromagnetic-interference hot spots during design and debugging.
-  It is intended for use with the HP 11945A close-field probe set, comprising
-  the 11941A (9 kHz to 30 MHz) and 11940A (30 MHz to 1 GHz) magnetic-field
-  probes. It adds an EMC personality, EMC bandwidths, and an N-type input
-  connector. H51 displays field strength at the probe tip in dBµA/m while
-  applying probe factors. It also provides 9 kHz and 120 kHz resolution
-  bandwidths for impulsive-interference measurements, plus a MIN/MAX function
-  to help distinguish narrowband signals from broadband or impulsive noise.
+  Rather than merely supporting close-field probes, H51 adds an EMC measurement
+  personality, automatic analysis routines, special 9 kHz and 120 kHz EMI
+  resolution bandwidths, and an N-type input connector. It is intended for use
+  with the HP 11945A close-field probe set, comprising the 11941A (9 kHz to
+  30 MHz) and 11940A (30 MHz to 1 GHz) magnetic-field probes. H51 displays
+  field strength at the probe tip in dBµA/m while automatically applying probe
+  factors, has MIN/MAX analysis to distinguish narrowband emissions from
+  broadband or impulsive noise, and can save traces for before/after comparison
+  of an EMC fix. Its frequency-reference correction also improves identification
+  of an interference source. Normal spectrum-analyzer operation is retained.
 
 Together, these options make this instrument suitable for remotely controlled
 RF troubleshooting and close-field EMI investigation up to 1.79 GHz.
