@@ -2,6 +2,8 @@
 
 Research and development with the Hewlett-Packard 8590A spectrum analyzer.
 
+![HP 8590A spectrum analyzer](hp8590a-01.jpg)
+
 ## HP 8590A overview
 
 The HP 8590A is a compact, portable RF spectrum analyzer for general-purpose
