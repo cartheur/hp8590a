@@ -39,6 +39,22 @@ harmonics, and other RF signals.
 Together, these options make this instrument suitable for remotely controlled
 RF troubleshooting and close-field EMI investigation up to 1.79 GHz.
 
+### Original list price
+
+The 1989 HP catalog lists this configuration at **US$9,505**:
+
+| Item | 1989 US list price |
+| --- | ---: |
+| HP 8590A base analyzer | $7,995 |
+| Option 021 — HP-IB interface | $600 |
+| Option H18 — 1.79 GHz operation | $350 |
+| Option H51 — Close-Field EMC Analyzer | $560 |
+| **Total: 8590A / 021 / H18 / H51** | **$9,505** |
+
+This is the original catalog list price, not a present-day value. The price
+table appears in the [1989 catalog](HP-Catalog-1989.pdf), PDF page 140
+(catalog page 135).
+
 ## Local manuals
 
 ### Analyzer
